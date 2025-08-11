@@ -17,6 +17,6 @@
 ### !pip install -r requirements.txt
 
 ``Step: 1`` Clone the repository </br>
-git clone https://github.com/Divyailayaperumal/Analytics-.git
+git clone https://github.com/Divyailayaperumal/Analytics-.git </br>
 ``Step 2:`` Navigate to the project directory </br>
 cd Analytics-
