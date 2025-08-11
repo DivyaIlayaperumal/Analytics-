@@ -1,4 +1,4 @@
-# Insurance Dataset Analysis #
+**Insurance Dataset Analysis** 
 ## To create a model, that predicts the cost of medical insurance based on various parameters ##
 
 # Description #
@@ -16,7 +16,7 @@
 
 ### !pip install -r requirements.txt
 
-Step: 1 Clone the repository
+``Step: 1`` Clone the repository </br>
 git clone https://github.com/Divyailayaperumal/Analytics-.git
-Step 2: Navigate to the project directory:
+``Step 2:`` Navigate to the project directory </br>
 cd Analytics-
